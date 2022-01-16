@@ -69,7 +69,7 @@ public class Main {
 
          parameters are the holds we define in our methods
          arguements are the actual values that we passed to this method
-         in java string are immutable that is we cant change them  */
+         in java string are immutable that is we cant change them.  */
 
     }
 }
