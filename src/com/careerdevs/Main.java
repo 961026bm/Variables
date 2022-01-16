@@ -74,7 +74,7 @@ public class Main {
         // Escape Sequence
 
         String message = "Hello \"Mosh\""; // double quote escape
-        message = "c:\\Windows\\..."; // backslash \\
+        message = "c:\\Windows\\..."; // backslash \\ is used to escape ""
         message = "c:\nWindows\\..."; // new line escape
         message = "c:\tWIndows\\..."; // tab escape
         System.out.println(message);
