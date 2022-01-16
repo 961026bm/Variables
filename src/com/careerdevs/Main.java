@@ -71,5 +71,14 @@ public class Main {
          arguements are the actual values that we passed to this method
          in java string are immutable that is we cant change them.  */
 
+        // Escape Sequence
+
+        String message = "Hello \"Mosh\""; // double quote escape
+        message = "c:\\Windows\\..."; // backslash \\
+        message = "c:\nWindows\\..."; // new line escape
+        message = "c:\tWIndows\\..."; // tab escape
+        System.out.println(message);
+
+
     }
 }
